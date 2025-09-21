@@ -77,7 +77,3 @@ else:
     st.info("Please upload a forecast CSV file with columns: Date, Actual, ARIMA, SARIMA, Prophet, LSTM")
 
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
