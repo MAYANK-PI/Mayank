@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.title("📈 Nifty50 Stock Price Forecasting")
 
 # Load cleaned data
-df = pd.read_csv(, parse_dates=["Date"], index_col="Date")
+df = pd.read_csv(parse_dates=["Date"], index_col="Date")
 
 st.subheader("Historical Data")
 st.line_chart(df["Close"])
