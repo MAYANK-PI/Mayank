@@ -1,6 +1,11 @@
 streamlit
 Python
-Pandas, NumPy
-Matplotlib, Seaborn, Plotly
-Scikit-learn, Statsmodels
-Facebook Prophet, TensorFlow/Keras (for LSTM)
+Pandas
+NumPy
+Matplotlib 
+Seaborn 
+Plotly
+Scikit-learn
+Statsmodels
+Facebook Prophet 
+TensorFlow/Keras (for LSTM)
