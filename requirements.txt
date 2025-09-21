@@ -7,5 +7,4 @@ Seaborn
 Plotly
 Scikit-learn
 Statsmodels
-Facebook Prophet 
-TensorFlow/Keras (for LSTM)
+TensorFlow
